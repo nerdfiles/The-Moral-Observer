@@ -16,7 +16,7 @@ A continuation of thought experiments and conceptual schemes developed in Bernar
 
 ##§ Publication
 
-Publication ready versions of this text can be found in [``output``](https://github.com/nerdfiles/The-Moral-Observer/tree/master/output).
+Publication-ready versions of this text can be found in [``output``](https://github.com/nerdfiles/The-Moral-Observer/tree/master/output).
 
 ##§ Requirements
 
