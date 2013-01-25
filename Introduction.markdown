@@ -1,7 +1,7 @@
 #Introduction
 
 > The unfitness of the object may cause one to overlook the unfitness of the means.  
-> &mdash; Franz Kafka
+> &mdash; <cite>The Blue Octavo Notebooks</cite>, Franz Kafka
 
 The following work will dispose the reader to a discursive strategy for the experimental discovery of amorality in the 
 hominids à la George Edward Moore's Naturalistic Fallacy and the precedence of the concept of moral luck à la Bernard 
