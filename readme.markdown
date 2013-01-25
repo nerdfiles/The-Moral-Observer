@@ -43,3 +43,9 @@ non-Open Source formats.
 ##§ License
 
 The "license" for this text can be found on its [LICENSE](https://github.com/nerdfiles/The-Moral-Observer/blob/master/LICENSE) Page.
+
+##§ TODO
+
+1. Prepare "Acknowledgements" Page.
+2. Prepare "Thanks" Page.
+
