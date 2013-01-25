@@ -16,10 +16,14 @@ A continuation of thought experiments and conceptual schemes developed in Bernar
 
 ##§ Requirements
 
-The following list consists of certain technological requirements in order to read, or view, this text. The Author 
-will take certain and essential measures in order to ensure that the publication can be parsed or interpreted by as 
+The following list consists of certain technological requirements for the reading, or viewing, of this text. The Author 
+will take pertinant and essential measures in order to ensure that the publication can be parsed or interpreted by as 
 many "readers" as considered necessary. Open Source formats will be preferred and set at a higher priority over 
 non-Open Source formats.
+
+###Readers
+
+1. [Byword](http://bywordapp.com/)
 
 ##§ License
 
