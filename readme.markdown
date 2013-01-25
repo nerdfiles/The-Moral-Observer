@@ -1,4 +1,4 @@
-#The Moral Observer | [repo](https://github.com/nerdfiles/The-Moral-Observer) [author](http://nerdfiles.net)
+#The Moral Observer | [license](https://github.com/nerdfiles/The-Moral-Observer/blob/master/LICENSE), [repo](https://github.com/nerdfiles/The-Moral-Observer), [author](http://nerdfiles.net)
 
 A continuation of thought experiments and conceptual schemes developed in Bernard Williams and George Edward Moore. 
 
@@ -13,3 +13,7 @@ A continuation of thought experiments and conceptual schemes developed in Bernar
 7. [Chapter 6](https://github.com/nerdfiles/The-Moral-Observer/blob/master/Chapter-6.markdown): Roundabout Williams
 8. [Chapter 7](https://github.com/nerdfiles/The-Moral-Observer/blob/master/Chapter-7.markdown): Toward an Afterword
 9. [Chapter 8](https://github.com/nerdfiles/The-Moral-Observer/blob/master/Chapter-8.markdown): Afterword
+
+##§ License
+
+The "license" for This Book can be found in its [LICENSE](https://github.com/nerdfiles/The-Moral-Observer/blob/master/LICENSE) page.
