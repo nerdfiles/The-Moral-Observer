@@ -2,6 +2,16 @@
 
 A continuation of thought experiments and conceptual schemes developed in Bernard Williams and George Edward Moore. 
 
+##§ Covers
+
+###Front Cover
+
+(TBD)
+
+###Back Cover
+
+(TBD)
+
 ##§ Table of Contents
 
 1. [Introduction](https://github.com/nerdfiles/The-Moral-Observer/blob/master/Introduction.markdown)
