@@ -14,6 +14,13 @@ A continuation of thought experiments and conceptual schemes developed in Bernar
 8. [Chapter 7](https://github.com/nerdfiles/The-Moral-Observer/blob/master/Chapter-7.markdown): Toward an Afterword
 9. [Chapter 8](https://github.com/nerdfiles/The-Moral-Observer/blob/master/Chapter-8.markdown): Afterword
 
+##§ Requirements
+
+The following list consists of certain technological requirements in order to read, or view, this text. The Author 
+will take certain and essential measures in order to ensure that the publication can be parsed or interpreted by as 
+many "readers" as considered necessary. Open Source formats will be preferred and set at a higher priority over 
+non-Open Source formats.
+
 ##§ License
 
-The "license" for This Book can be found on its [LICENSE](https://github.com/nerdfiles/The-Moral-Observer/blob/master/LICENSE) Page.
+The "license" for this text can be found on its [LICENSE](https://github.com/nerdfiles/The-Moral-Observer/blob/master/LICENSE) Page.
