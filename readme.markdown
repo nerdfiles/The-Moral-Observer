@@ -1,10 +1,10 @@
-#The Moral Observer
+#The Moral Observer | [repo](https://github.com/nerdfiles/The-Moral-Observer) [author](http://nerdfiles.net)
 
 A continuation of thought experiments and conceptual schemes developed in Bernard Williams and George Edward Moore. 
 
 ##§ Table of Contents
 
-1. Introduction
+1. [Introduction](https://github.com/nerdfiles/The-Moral-Observer/blob/master/Introduction.markdown)
 2. Chapter 1: An Analogy from the Amoralist
 3. Chapter 2: The Common Languages of Morality
 4. Chapter 3: Moral Precisionism
