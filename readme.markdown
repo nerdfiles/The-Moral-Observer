@@ -48,4 +48,5 @@ The "license" for this text can be found on its [LICENSE](https://github.com/ner
 
 1. Prepare "Acknowledgements" Page.
 2. Prepare "Thanks" Page.
+3. Prepare "Terms" Page.
 
