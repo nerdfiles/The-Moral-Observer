@@ -4,7 +4,7 @@ A continuation of thought experiments and conceptual schemes developed in Bernar
 
 ##§ Table of Contents
 
-1. [Introduction](/Introduction.markdown)
+1. [Introduction](Introduction.markdown)
 2. [Chapter 1](https://github.com/nerdfiles/The-Moral-Observer/blob/master/Chapter-1.markdown): An Analogy from the Amoralist
 3. [Chapter 2](https://github.com/nerdfiles/The-Moral-Observer/blob/master/Chapter-2.markdown): The Common Languages of Morality
 4. [Chapter 3](https://github.com/nerdfiles/The-Moral-Observer/blob/master/Chapter-3.markdown): Moral Precisionism
